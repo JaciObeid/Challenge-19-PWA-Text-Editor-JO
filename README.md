@@ -11,6 +11,11 @@ MIT license
 Thank you to everyone in my class for participating in class allowing me to learn more. 
 Thank you to my instructor Chris Woolcott and the Teaching Assistant Steven Castro-Mercado. 
 
+## Screen Shot 
+Here is a screen shot of the deployed render page ![Rendered Page image](image.png)
+
+## Render Page 
+[Here is the link to the render page for this code](https://challenge-19-pwa-text-editor-jo.onrender.com/)
 
 ## Questions 
 If you have any questions contact me at my GitHub @JaciObeid
