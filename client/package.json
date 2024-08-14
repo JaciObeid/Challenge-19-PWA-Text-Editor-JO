@@ -1,5 +1,5 @@
 {
-  "name": "JATE",
+  "name": "JATE-Challenge-19-PWA",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
